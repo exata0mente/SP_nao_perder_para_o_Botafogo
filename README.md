@@ -1,31 +1,23 @@
 ![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-green?style=plastic)
 ![Commits semanais](https://img.shields.io/github/commit-activity/w/exata0mente/SP_nao_perder_para_o_Botafogo?style=plastic)
 
-## Problematização e hipótese
+## O projeto
 
-Tenho a sensação de que perder para o Botafogo no campeonato brasileiro indica que o time vai ter um desempenho muito ruim na sequência do campeonato. Aliás, minha memória não me permite afirmar que todas as vezes que o São Paulo foi campeão Brasileiro ele perdeu alguma vez para o Botafogo.
+Como um torcedor do São Paulo Futebol Clube, tenho a sensação de que perder para o Botafogo no campeonato brasileiro indica que meu time vai ter um desempenho muito ruim na sequência do campeonato. Aliás, minha memória não me permite afirmar que todas as vezes que o São Paulo foi campeão Brasileiro ele perdeu alguma vez para o Botafogo.
 
-## Justificativa
+Irei aproveitar essa hipótese para praticar e melhorar as técnicas estatísticas, manipulação e visualização de dados com o Python, que venho aprendendo em minhas trilhas.
 
-Melhorar minhas técnicas de manipulação e visualização de dados com o Python e quem sabe gerar algum conteúdo relevante
+Agora, será que consigo provar que esta hipótese é verdadeira?
 
-## Objetivos
+## A base de dados
 
-- Identificar uma fonte de dados
-- Usar o pipeline de tratamento e visualização de dados
-- Tirar insights
+Para esta análise irei utilizar a base de dados localizada no site https://www.football-data.co.uk/brazil.php, que possui dados de 2012 em diante.
 
-## Estado da arte
+> 2012 é um ano bem peculiar para o são paulino
 
-O que já sei? Abaixo um pouco do que já tenho catalogado
+A princípio estes dados devem ser suficientes para gerar algum insight.
 
-## Metodologia
-
-Vou seguir basicamente o que estou aprendendo nos cursos de *data science* da Alura
-
-## Cronograma
-
-## Referências
+O dicionário de dados está localizado em https://www.football-data.co.uk/notes.txt
 
 ## Contatos
 
